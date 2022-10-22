@@ -3,6 +3,7 @@
 SNP software to analyze and annotate variant files
 
 ## Contribute
+![local-origin-upstream](https://raw.githubusercontent.com/bredeson/snp/main/images/git-upstream.png)
 In order to contribute to the developement of the **snp* software repository: 
 1. Fork the Git repository to your own account:
     1. Go to https://github.com/bredeson/snp
