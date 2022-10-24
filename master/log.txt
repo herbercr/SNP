@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='log.txt' mode='w' encoding='UTF-8'>

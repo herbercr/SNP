@@ -1,0 +1,11 @@
++--------------+-----------+-----------+------------+------------+-----------------+
+| Chromosome   |     Start |       End | Ref        | Alt        | SNPtype         |
+| (category)   |   (int32) |   (int32) | (object)   | (object)   | (object)        |
+|--------------+-----------+-----------+------------+------------+-----------------|
+| BX284601.5   |     11615 |     11615 | C          | A          | TYPE=SUBSTITUTE |
+| BX284601.5   |     11617 |     11617 | G          | A          | TYPE=SUBSTITUTE |
+| BX284601.5   |     11675 |     11675 | C          | A          | TYPE=SUBSTITUTE |
+| BX284601.5   |     11677 |     11677 | G          | A          | TYPE=SUBSTITUTE |
++--------------+-----------+-----------+------------+------------+-----------------+
+Unstranded PyRanges object has 4 rows and 6 columns from 1 chromosomes.
+For printing, the PyRanges was sorted on Chromosome.
